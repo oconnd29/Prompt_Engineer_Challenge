@@ -1,9 +1,13 @@
 # Prompt_Engineer_Challenge
 Test out your ability as an AI prompt engineer to implemnt wind turbine fault monitoring!
 
-Download the .zip file, upload it to ChatGPT and ask GPT to attempt to assess the health of your turbine! 
+## Instructions
 
-hint: There is a generator failure that occurs during the testing set, use the training set to give GPT some context or dont...  
+1. Download the provided `.zip` dataset.
+2. Unpack the training and testing sets.
+3. Upload the datasets to ChatGPT.
+4. Ask ChatGPT to evaluate turbine health, with or without training context.
+5. Analyze how and when the fault is detected.
 
 # Results (draft)
 Basic:
