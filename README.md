@@ -1,6 +1,10 @@
 # Prompt_Engineer_Challenge
 Test out your ability as an AI prompt engineer in fault monitoring!
 
+Download the .zip file and ask GPT to attempt to assess the health of your turbine! 
+
+hint: There is a generator failure that occurs during the testing set, use the training to give GPT some context or dont...  
+
 # Anomaly Detection Visualization
 
 This project demonstrates how to visualize anomaly detection results from:
@@ -24,7 +28,7 @@ The notebook highlights:
 -     DS2_test_data.pkl:  Followed by a ~1 month test period where a Bearing Failure occured
 - `results_DS2.csv`: CSV file with anomaly scores, and labels
 
-## ▶️ How to Run
+## ▶️ How to Run results example
 
 ```bash
 pip install -r requirements.txt
