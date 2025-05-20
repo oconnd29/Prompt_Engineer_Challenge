@@ -10,18 +10,19 @@ This project demonstrates how to visualize anomaly detection results from:
 The notebook highlights:
 - Detected anomalies
 - The failure alarm time
-- Training and test periods (shaded for clarity)
+- Training and test periods
 
 ## 📊 Example Output
 
-![example-plot](path/to/screenshot.png)
+![example-plot](results_comparison.png)
 
 ## 📁 Files
 
-- `anomaly_visualization.ipynb`: Interactive version with plots and explanations
-- `datasets/`: Contains the test case `.pkl` file
-- `results/`: CSV file with residuals, scores, and labels
-- `visualize_anomalies.py`: Optional standalone script version
+- `Results_GPT_vs_LR-NBM.ipynb`: Interactive version with plots and explanations
+- `DS2_data.zip`:
+-     DS2_train_data.pkl: 3 month training period of SCADA data
+-     DS2_test_data.pkl:  Followed by a ~1 month test period where a Bearing Failure occured
+- `results_DS2.csv`: CSV file with anomaly scores, and labels
 
 ## ▶️ How to Run
 
