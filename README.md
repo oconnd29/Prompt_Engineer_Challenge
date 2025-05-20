@@ -1,9 +1,9 @@
 # Prompt_Engineer_Challenge
-Test out your ability as an AI prompt engineer in fault monitoring!
+Test out your ability as an AI prompt engineer to implemnt wind turbine fault monitoring!
 
 Download the .zip file and ask GPT to attempt to assess the health of your turbine! 
 
-hint: There is a generator failure that occurs during the testing set, use the training to give GPT some context or dont...  
+hint: There is a generator failure that occurs during the testing set, use the training set to give GPT some context or dont...  
 
 # Anomaly Detection Visualization
 
