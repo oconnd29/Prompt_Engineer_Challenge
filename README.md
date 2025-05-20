@@ -24,8 +24,8 @@ The notebook highlights:
 
 - `ExampleResults_GPT_vs_LR-NBM.ipynb`  : Interactive version with plots and explanations
 - `DS2_data.zip`                 : Compressed File containing...
-                                    'DS2_train_data.pkl'           : 3 month training period of SCADA data
-                                    'DS2_test_data.pkl'            : Followed by a ~1 month test period where a Bearing Failure occured
+                                    - 'DS2_train_data.pkl'           : 3 month training period of SCADA data
+                                    - 'DS2_test_data.pkl'            : Followed by a ~1 month test period where a Bearing Failure occured
 - `DS2_results.csv`: CSV file with anomaly scores, and labels
 
 ## ▶️ How to Run results example
