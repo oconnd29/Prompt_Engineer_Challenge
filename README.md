@@ -1,9 +1,17 @@
 # Prompt_Engineer_Challenge
 Test out your ability as an AI prompt engineer to implemnt wind turbine fault monitoring!
 
-Download the .zip file and ask GPT to attempt to assess the health of your turbine! 
+Download the .zip file, upload it to ChatGPT and ask GPT to attempt to assess the health of your turbine! 
 
 hint: There is a generator failure that occurs during the testing set, use the training set to give GPT some context or dont...  
+
+# Results (draft)
+Basic:
+1. Does the AI detect the fault in time with the installed system?
+2. Does the AI detect the fault BEFORE the installed system?
+Technical:
+1. Would you, as a technician/engineer trust the results the AI gave you?
+2. Would you, as a technician/engineer trust the results shown by the method NBM method? (NBM-based: Model which estimates healthy behaviour, then measure of fault is difference between true and estaimted) 
 
 # Anomaly Detection Visualization
 
