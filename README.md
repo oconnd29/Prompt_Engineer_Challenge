@@ -9,11 +9,11 @@ Test out your ability as an AI prompt engineer to implemnt wind turbine fault mo
 4. Ask ChatGPT to evaluate turbine health, with or without training context.
 5. Analyze how and when the fault is detected.
 
-# Results (draft)
-Basic:
+## Results (draft)
+### Basic:
 1. Does the AI detect the fault in time with the installed system?
 2. Does the AI detect the fault BEFORE the installed system?
-Technical:
+### Technical:
 1. Would you, as a technician/engineer trust the results the AI gave you?
 2. Would you, as a technician/engineer trust the results shown by the method NBM method? (NBM-based: Model which estimates healthy behaviour, then measure of fault is difference between true and estaimted) 
 
