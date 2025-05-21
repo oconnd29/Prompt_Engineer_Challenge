@@ -1,5 +1,7 @@
 # Prompt_Engineer_Challenge
-Test out your ability as an AI prompt engineer to implemnt wind turbine fault monitoring!
+Test out your ability as an AI prompt engineer to implement wind turbine fault monitoring!
+
+Using an example from a real wind turbine, where a failure of generator bearing occured, can we detect the damage before the instaleld system?
 
 ## Instructions
 
