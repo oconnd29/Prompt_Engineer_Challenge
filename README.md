@@ -44,7 +44,7 @@ Using an example from a real wind turbine, where a failure of generator bearing 
 # Anomaly Detection Visualization
 
 This project demonstrates how to visualize anomaly detection results from:
-- A Linear Regression (LR) model
+- An LR-NBM model
 - A GPT-based Isolation Forest
 
 The notebook highlights:
