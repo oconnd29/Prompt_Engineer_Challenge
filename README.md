@@ -27,7 +27,7 @@ Test out your ability as an AI prompt engineer to implemnt wind turbine fault mo
   *CSV file containing anomaly scores and ground-truth labels for the test period, used to evaluate model performance.*
 
   
-## Results (draft)
+## Feedback - Email me! oconnd29@tcd.ie
 ### Basic:
 1. Does the AI detect the fault in time with the installed system?
 2. Does the AI detect the fault BEFORE the installed system?
