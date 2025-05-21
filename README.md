@@ -21,9 +21,11 @@ Using an example from a real wind turbine, where a failure of generator bearing 
 
   **Contents:**
   - `DS2_train_data.pkl`  
-    *SCADA sensor data and corresponding alarm events for a ~3-month training and validation period. KEYS: 'train_sensor_data' and 'train_alarm_data'
+    *SCADA sensor data and corresponding alarm events for a ~3-month training and validation period.
+    KEYS: 'train_sensor_data' and 'train_alarm_data'
   - `DS2_test_data.pkl`  
-    *SCADA sensor data and corresponding alarm events for a ~1-month test period during which a bearing failure occurred. KEYS: 'test_sensor_data', 'test_alarm_data' and 'failure_alarm'
+    *SCADA sensor data and corresponding alarm events for a ~1-month test period during which a bearing failure occurred.
+    KEYS: 'test_sensor_data', 'test_alarm_data' and 'failure_alarm'
 
 - `DS2_results.csv`  
   *CSV file containing anomaly scores and ground-truth labels for the test period, used to evaluate model performance.*
