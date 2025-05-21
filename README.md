@@ -14,21 +14,21 @@ Using an example from a real wind turbine, where a failure of generator bearing 
 ## 📁 Files
 
 - `ExampleResults_GPT_vs_LR-NBM.ipynb`  
-  *An interactive Jupyter notebook comparing anomaly detection results using GPT-based methods vs. Linear Regression based Normal Behavior Model (LR-NBM). Includes results, plots. 
+  An interactive Jupyter notebook comparing anomaly detection results using GPT-based methods vs. Linear Regression based Normal Behavior Model (LR-NBM). Includes results, plots. 
 
 - `DS2_data.zip`  
-  *Compressed archive containing sensor and alarm data from Dataset DS2, structured for training and testing a failure prediction model.*
+  Compressed archive containing sensor and alarm data from Dataset DS2, structured for training and testing a failure prediction model.*
 
   **Contents:**
   - `DS2_train_data.pkl`  
-    *SCADA sensor data and corresponding alarm events for a ~3-month training and validation period.  
+    SCADA sensor data and corresponding alarm events for a ~3-month training and validation period.  
     KEYS: 'train_sensor_data' and 'train_alarm_data'
   - `DS2_test_data.pkl`  
-    *SCADA sensor data and corresponding alarm events for a ~1-month test period during which a bearing failure occurred.  
+    SCADA sensor data and corresponding alarm events for a ~1-month test period during which a bearing failure occurred.  
     KEYS: 'test_sensor_data', 'test_alarm_data' and 'failure_alarm'
 
 - `DS2_results.csv`  
-  *CSV file containing anomaly scores and ground-truth labels for the test period, used to evaluate model performance.*
+  CSV file containing anomaly scores and ground-truth labels for the test period, used to evaluate model performance.*
 
   
 ## Feedback - Email me! oconnd29@tcd.ie
