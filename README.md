@@ -13,7 +13,7 @@ Using an example from a real wind turbine, where a failure of generator bearing 
 
 ## 📁 Files
 
-- `ExampleResults_GPT_vs_LR-NBM.ipynb`  
+- `Visualise_Results_GPT_vs_LR-NBM.ipynb`  
   An interactive Jupyter notebook comparing anomaly detection results using GPT-based methods vs. Linear Regression based Normal Behavior Model (LR-NBM). Includes results, plots. 
 
 - `DS2_data.zip`  
