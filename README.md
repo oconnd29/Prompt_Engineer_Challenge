@@ -11,11 +11,21 @@ Test out your ability as an AI prompt engineer to implemnt wind turbine fault mo
 
 ## 📁 Files
 
-- `ExampleResults_GPT_vs_LR-NBM.ipynb`  : Interactive version with plots and explanations
-- `DS2_data.zip`                 : Compressed File containing...
-- 'DS2_train_data.pkl'           : 3 month training period of SCADA data
-- 'DS2_test_data.pkl'            : Followed by a ~1 month test period where a Bearing Failure occured
-- `DS2_results.csv`: CSV file with anomaly scores, and labels
+- `ExampleResults_GPT_vs_LR-NBM.ipynb`  
+  *An interactive Jupyter notebook comparing anomaly detection results using GPT-based methods vs. Logistic Regression with Naive Bayes Monitoring (LR-NBM). Includes plots, metrics, and explanations.*
+
+- `DS2_data.zip`  
+  *Compressed archive containing sensor and alarm data from Dataset DS2, structured for training and testing a failure prediction model.*
+
+  **Contents:**
+  - `DS2_train_data.pkl`  
+    *SCADA sensor data and corresponding alarm events for a ~3-month training and validation period.*
+  - `DS2_test_data.pkl`  
+    *SCADA sensor data and corresponding alarm events for a ~1-month test period during which a bearing failure occurred.*
+
+- `DS2_results.csv`  
+  *CSV file containing anomaly scores and ground-truth labels for the test period, used to evaluate model performance.*
+
   
 ## Results (draft)
 ### Basic:
