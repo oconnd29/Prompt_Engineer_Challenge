@@ -12,7 +12,7 @@ Test out your ability as an AI prompt engineer to implemnt wind turbine fault mo
 ## 📁 Files
 
 - `ExampleResults_GPT_vs_LR-NBM.ipynb`  
-  *An interactive Jupyter notebook comparing anomaly detection results using GPT-based methods vs. Logistic Regression with Naive Bayes Monitoring (LR-NBM). Includes plots, metrics, and explanations.*
+  *An interactive Jupyter notebook comparing anomaly detection results using GPT-based methods vs. Linear Regression based Normal Behavior Model (LR-NBM). Includes results, plots. 
 
 - `DS2_data.zip`  
   *Compressed archive containing sensor and alarm data from Dataset DS2, structured for training and testing a failure prediction model.*
