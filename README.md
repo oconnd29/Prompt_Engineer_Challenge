@@ -24,15 +24,19 @@ Example Prompt:
   Compressed archive containing sensor and alarm data from Dataset DS2, structured for training and testing a failure prediction model.*
 
   **Contents:**
-  - `DS2_train_data.pkl`  
+  - 'DS2_train_data.zip'
     SCADA sensor data and corresponding alarm events for a ~3-month training and validation period.  
-    KEYS: 'train_sensor_data' and 'train_alarm_data'
-  - `DS2_test_data.pkl`  
+    'train_sensor_data.csv'
+    'train_alarm_data.csv'
+    
+  - `DS2_test_data.zip`  
     SCADA sensor data and corresponding alarm events for a ~1-month test period during which a bearing failure occurred.  
-    KEYS: 'test_sensor_data', 'test_alarm_data' and 'failure_alarm'
+    'test_sensor_data.csv'
+    'test_alarm_data.csv' 
+    'failure_alarm.csv'
 
 - `DS2_results.csv`  
-  CSV file containing anomaly scores and ground-truth labels for the test period, used to evaluate model performance.*
+  CSV file containing anomaly scores and ground-truth labels for the test period. From LR-NBM based fault detection.*
 
   
 ## Feedback - Email me! oconnd29@tcd.ie
