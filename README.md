@@ -9,7 +9,7 @@ Using an example from a real wind turbine, where a failure of generator bearing 
 2. Unpack the training and testing sets.
 3. Upload the datasets to your chosen ChatBot.
 4. Ask the AI to evaluate turbine health, with or without training context. 
-5. Inpsect results and present then like - See ExampleResults_GPT_vs_LR-NBM.ipynb
+5. Inpsect results and compare to the results achieved via the NBM based approach. See ExampleResults_GPT_vs_LR-NBM.ipynb or Download DS2_results.zip
 
 
 Example Prompt:
