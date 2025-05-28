@@ -5,11 +5,15 @@ Using an example from a real wind turbine, where a failure of generator bearing 
 
 ## Instructions
 
-1. Download the provided `.zip` dataset.
+1. Download the training and test `.zip` files. 
 2. Unpack the training and testing sets.
-3. Upload the datasets to your chosen AI tool.
-4. Ask AI to evaluate turbine health, with or without training context.
+3. Upload the datasets to your chosen ChatBot.
+4. Ask the AI to evaluate turbine health, with or without training context. 
 5. Inpsect results and present then like - See ExampleResults_GPT_vs_LR-NBM.ipynb
+
+
+Example Prompt:
+'Using the training data, learn to detect the failure alarm that occurs during the test data. plot the test data detections.'
 
 ## 📁 Files
 
